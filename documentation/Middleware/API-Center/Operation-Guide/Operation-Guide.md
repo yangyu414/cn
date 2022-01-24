@@ -44,3 +44,27 @@ type="video/mp4"
 />
 当前浏览器不能支持视频播放，请采用chrome或IE9以上浏览器
 </video>
+
+
+###4
+<custom-v>
+
+</custom-v>
+
+###5
+<custom-v src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4" controls="controls" width="500" height="300">
+您的浏览器不支持播放该视频！
+</custom-v>
+
+
+###6
+<custom-v poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" id="video" controls="controls" preload="auto" autoplay="autoplay" x5-video-player-type="h5">
+<custom-source src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4" type="video/mp4">
+当前浏览器不能支持视频播放，请采用chrome或IE9以上浏览器
+</custom-v>
+
+###7
+<custom-video poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" id="video" controls="controls" preload="auto" autoplay="autoplay" x5-video-player-type="h5">
+<custom-source src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4" type="video/mp4">
+当前浏览器不能支持视频播放，请采用chrome或IE9以上浏览器
+</custom-video>
