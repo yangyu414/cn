@@ -72,11 +72,12 @@ type="video/mp4"
 ###8
 {{< copyable "sql" >}}
 
-###9
-!v["//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4"](500,300)
-
 ###10
 {{[ !video, src="1",width="300",height="500" ]}}
+
+###11
+!{video}[ src="1",width="300",height="500" ]
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500" ]
 
 
 
