@@ -68,3 +68,9 @@ type="video/mp4"
 <custom-source src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4" type="video/mp4">
 当前浏览器不能支持视频播放，请采用chrome或IE9以上浏览器
 </custom-video>
+
+###8
+{{< copyable "sql" >}}
+
+###
+!v["//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4"](500,300)
