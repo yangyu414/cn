@@ -11,3 +11,9 @@
 文件网关最终将文件存储到对象存储 OSS 上，OSS 为文件提供数据处理及分发能力，减轻资源服务器的压力，并利用无限容量、高频读写的特性，为静态资源提供可扩展和可靠的存储。
 
 ![数据处理及分发](../../../../image/Storage-Gateway/storagegateway-5.png)
+
+
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
+
