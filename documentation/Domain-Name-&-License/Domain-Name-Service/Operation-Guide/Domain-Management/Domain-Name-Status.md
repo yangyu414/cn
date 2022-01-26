@@ -9,6 +9,8 @@
 在查看域名whois的时候，都有一项“域名状态”栏，每一个域名，都有当前的状态，有可能只有一个或多个状态。了解各种域名状态的含义，有助于您明白域名不同状态下的原因，及时采取相应措施。
 
 分别有以下几种情况：client开头状态是指注册机构发起，server开头状态是CNNIC（中国互联网信息中心）发起
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
 
 ACTIVE（OK）：普通状态（正常，没有需要立即进行的操作，也没有设置任何保护措施；当有其他状态时，OK状态不显示，但并不代表不正常。）
 

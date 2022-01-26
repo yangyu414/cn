@@ -27,3 +27,5 @@
 有权销售特定顶级域下域名的公司。例如，新网是一个有权销售 .com 顶级域下域名的注册机构。域名注册机构可以定义注册相应域名的规则，比如限制某个国家代码顶级域名注册中注册人的住所地址。
 
 域名注册机构还负责维护具有相同TLD的所有域名的权威数据库。注册机构的数据库中包含域名联系人和域名的DNS服务器等信息。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

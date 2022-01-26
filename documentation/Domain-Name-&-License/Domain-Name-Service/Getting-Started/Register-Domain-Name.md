@@ -33,3 +33,5 @@
 
 温馨提示：如果您注册的是.cn等国内域名，注册成功后还需要提交与域名注册信息相同的资料，进行实名制认证，成功后域名才能正常使用；如果在注册过程中，选择已实名认证的信息模板，则可以省略此步骤。
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

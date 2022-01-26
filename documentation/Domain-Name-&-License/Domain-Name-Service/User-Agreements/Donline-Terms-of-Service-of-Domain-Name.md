@@ -3,6 +3,10 @@
 《国际域名在线转移协议》（下称《协议》）是您（下称"用户"）与北京新网数码信息技术有限公司（下称"新网"）就用户在线索取国际域名转移密码、将所持有之国际域名的注册服务机构转移，即不再由新网担任用户注册之国际域名的注册服务机构等相关事宜订立本协议。本《协议》描述新网与用户之间关于国际域名在线转移相关方面的权利义务。"用户"是指通过新网注册国际域名的自然人、法人或其他组织，以及由其他注册机构转而由新网提供注册服务的国际域名持有者。
 
 请认真阅读、充分理解并同意接受本《协议》各项条款才能进入索取国际域名转移密码的在线操作流程。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
 
 1. 用户责任
 

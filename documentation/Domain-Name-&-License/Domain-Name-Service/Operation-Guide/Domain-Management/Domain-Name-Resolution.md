@@ -10,6 +10,8 @@
 京东云【控制台】，进入域名管理列表，点击解析后把域名指向网站主机 IP 地址（或电子邮箱 MX 记录），即可快速完成域名解析设置。具体操作流程如下：
 
 A.进入域名解析设置页
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
 
 - 京东云【控制台】，进入域名管理列表，后选择要操作的域名点击解析操作，直接进入解析操作页面
 

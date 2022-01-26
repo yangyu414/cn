@@ -28,3 +28,5 @@
 如果没有英文公司名称，可以填写与中文名称相同的完整拼音。例如：北京例子科技有限公司，英文信息可填写为bei jing li zi ke ji you xian gong si
 
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

@@ -78,3 +78,7 @@ A:大部分产品多年续费很优惠！
 ## Q:域名为什么不能续费超过 10 年？
 
 A:域名的续费年限是由注册局规定的，一般情况下，域名一次性最多续费 10 年。
+
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
