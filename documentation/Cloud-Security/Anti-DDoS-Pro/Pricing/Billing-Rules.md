@@ -37,3 +37,5 @@ DDoS IP高防支持两种计费类型：
 攻击不超过10G时，不收取弹性防护的费用。攻击超过10G时，DDoS IP高防仍给予攻击防护，最大的防护带宽为20G。按实际超过弹性防护的带宽所在区间，隔天收取费用。
 例：11月10日受到最大攻击峰值为3G的攻击，则按包年包月的计费方式，不额外收取弹性计费费用。
    11月11日受到最大攻击峰值为13G的攻击，则11月12日需要收取弹性区间(0Gbps<弹性峰值≤10Gbps)的费用，1200元。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

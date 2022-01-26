@@ -27,3 +27,7 @@
 - 当攻击流量峰值超过已购买实例的保底+弹性防护带宽，高防IP会进入黑洞，此时建议对实例进行升级，升级后防护带宽高于攻击流量，高防IP会自动解除黑洞
 
 - DDoS IP高防100G和100G以上保底套餐只支持按年购买，如果从100G以下保底套餐升级到100G或100G以上，需要先至少续费1年才能支持升级
+
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

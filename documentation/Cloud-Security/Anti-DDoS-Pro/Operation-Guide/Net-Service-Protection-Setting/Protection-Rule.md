@@ -28,3 +28,7 @@
 |目的并发连接限速        |目的IP及端口最大并发连接数，超过限制的连接将被丢弃。|
 |包长度过滤              |报文所含payload长度大小，单位为字节(byte)，小于最小长度或大于最大长度的包会被丢弃。|
 |Geo拦截                 |按流量来源地进行拦截，默认不选。区域支持海外和中国，中国支持到省，支持多选。|
+
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

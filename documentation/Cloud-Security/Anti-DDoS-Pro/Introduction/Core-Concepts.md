@@ -8,3 +8,6 @@
 - **CNAME**：别名记录。即实现将一个域名解析到另外的一个域名，CNAME可将多个主机名指向一个别名，从而实现快速地变更IP地址。
 
 - **黑洞**：黑洞是指服务器所受攻击流量超过用户购买高防的套餐防护上限时，京东云IP高防将屏蔽服务器的外网访问。
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

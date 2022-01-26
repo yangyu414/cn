@@ -29,4 +29,6 @@ DDoS IP高防防御的CC攻击，会生成CC防护报表，CC报表支持切换�
 新建连接数：系统在1秒内建立的连接数。</BR>
 ![图表](../../../../image/Advanced%20Anti-DDoS/report%2013.png)
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
 

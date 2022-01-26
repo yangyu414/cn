@@ -128,3 +128,5 @@ A：如果是(四层)非网站类接入，通过TCP端口转发流量时，源�
 如果是(七层)网站类接入，因为使用了七层服务器做代理，所以源站默认看到的是代理服务器的IP地址。我们可以通过HTTP头部的X-Forwareded-For字段来获取客户端的真实IP地址。格式为：**X-Forwareded-For：用户真实IP，代理服务器1的IP，代理服务器2的IP，代理服务器3的IP，...**
 
 不管经过几层代理（如流量先经过高防，再经过了WAF，LB等代理服务器），用户真实请求的IP永远位于X-Forwareded-For的第一个位置。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

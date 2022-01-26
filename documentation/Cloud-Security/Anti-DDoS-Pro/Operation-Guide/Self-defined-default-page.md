@@ -19,3 +19,5 @@
 ![](../../../../image/Advanced%20Anti-DDoS/self-define%20default%20page04.png)</br>
 8. 自定义页面支持在CC定义防护规则中引用，进入CC防护自定义规则页面，阻断类型选择 **封禁** ，即可在 **封禁并返回自定义页面** 中引用自定义页面。</br>
 ![](../../../../image/Advanced%20Anti-DDoS/self-define%20default%20page06.png)</br>
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

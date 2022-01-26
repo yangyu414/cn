@@ -17,3 +17,5 @@
 # 方案优势
 1. 本地组件提供攻击检测和防护能力，当攻击流量超过阈值时迁移至云端DDoS IP高防，这种协同防御模式能够满足政府、金融行业的数据自主可控的合规监管要求。
 2. CNAME接入，一键自动上云，配置简单，减少运维人员工作。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

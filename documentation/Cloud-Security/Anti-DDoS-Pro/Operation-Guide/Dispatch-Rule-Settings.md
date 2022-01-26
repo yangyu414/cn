@@ -45,3 +45,5 @@
 3. 调度到DDoS IP高防时间受DNS TTL生效时间限制。
 4. 为避免云内IP暴露之后，攻击者直接攻击云内IP，建议增加备用IP，正常情况下直接访问云内IP，攻击时，通过DDoS IP高防回源到备用IP。常态使用的云内IP和攻击回源的IP分开，可以有效提高业务的可用性。
 5. 由于DNS生效时间限制，攻击流量从源站切换到DDoS IP高防存在时延，当超大流量直接到达云内IP时，云内IP可能被运营商封禁，请确保个别IP被运营商封禁时，不影响整体业务。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
