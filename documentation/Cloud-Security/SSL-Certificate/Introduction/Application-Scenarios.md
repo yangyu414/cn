@@ -8,3 +8,5 @@
 ## 互联网用户
 支持面向互联网用户提供SSL数字证书存管服务，为互联网用户提供安全可信的SSL数字证书存管环境，保证证书文件的私密性，便于互联网用户对已有证书进行管理。同时，SSL数字证书产品可为互联网用户提供丰富的证书品牌和证书类型，支持云上证书对生成、证书申请签发和续费，还可以提供证书管理和详情查看，并支持与京东云平台上其他产品业务进行关联（如负载均衡、CDN），为互联网用户提供一站式证书安全存管与使用服务。
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

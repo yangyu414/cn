@@ -15,3 +15,5 @@
 ## 服务高可用
 支持多品牌、多类型、多安全级别、更具价格优势的证书产品，京东云平台可代为生成证书对文件，将证书申请流程化简为繁，只需点击鼠标即可体验便捷的证书申请与续费服务，彻底远离复杂冗长流程的困扰。
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]

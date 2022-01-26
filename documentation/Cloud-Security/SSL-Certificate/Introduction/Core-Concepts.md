@@ -7,3 +7,5 @@
 - **企业型专业版证书（OVPro证书）**：使用椭圆曲线密码技术（ECC）的企业型证书，在缩短密钥尺寸的同时提升了加密的健壮性，并优化了Web应用在进行证书交换时的性能。
 - **增强型证书（EV证书）**：增强型证书，遵循全球统一的严格身份校验标准，是安全等级最高的证书。部署了增强型证书的网站会显示绿色的企业标识。
 - **增强型专业版证书（EVPro证书）**：使用椭圆曲线密码技术（ECC）的增强型证书，在缩短密钥尺寸的同时提升了加密的健壮性，并优化了Web应用在进行证书交换时的性能。
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
