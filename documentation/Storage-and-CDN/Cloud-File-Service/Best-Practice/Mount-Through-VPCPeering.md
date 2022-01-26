@@ -46,7 +46,9 @@
 
 然后创建VPC 2到VPC1的对等连接，步骤与之前相同，注意本段VPC选择VPC2，对端ID填写VPC1的VPD ID，路由策略中的“目的端”填写VPC1的CIDR或范围。
 
- 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
+
 
 ## 2. 在VPC2内挂载文件存储
 
@@ -57,3 +59,7 @@
 ## 3. 验证挂载状态
 
 挂载完成后，在VPC2 内的云主机运行 df –h，在FileSystem中可以看到文件存储即挂载成功。
+
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
