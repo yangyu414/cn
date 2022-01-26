@@ -1,7 +1,13 @@
 ## 常见问题
 1.	怎么购买云桌面？<br>
+
 访问控制台一级菜单“企业应用”下的二级菜单“云桌面”，输入定制化域名，点击开通。<br>
 开通完成后，可以对云桌面进行购买使用。<br>
+
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
+
+
 2.	为什么要域名？<br>
 域名服务用于云桌面的终端用户登录<br>
 3. 云桌面是否支持自定义镜像？<br>
@@ -38,3 +44,5 @@ Windows Server 2012 、2016<br>
 16. 如何本地文件上传至云桌面？<br>
 参考策略管理功能<br>
 
+###测试视频播放
+!{video}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4",width="300",height="500",controls="controls", preload="auto",autoplay="autoplay",x5-video-player-type="h5",poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
