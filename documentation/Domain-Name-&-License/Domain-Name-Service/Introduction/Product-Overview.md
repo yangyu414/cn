@@ -17,7 +17,7 @@
 要想在 Internet 上建立服务器发布信息，则要先注册相应的域名。域名注册是在 Internet 上建立服务的基础，由于域名的注册遵循“先申请先注册”为原则，在中华网库每一个域名的注册都是独一无二、不可重复的，如果您想在 Internet 上拥有您的服务器发布信息，建议尽早注册域名。
 
 ##测试视频播放
-{{video}}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4"   width="650"  controls="controls"   x5-video-player-type="h5"  poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]{{video}}
+{{video}}[ src="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/0860c194-bc12-4434-a3ad-95c9c172b65220200109153030.mp4"   width="650"  controls="controls"   x5-video-player-type="h5"  poster="//jdcloud-portal.oss.cn-north-1.jcloudcs.com/video/b8923ecf-4a19-4e66-98e3-1d847604a86620200109154726.jpg" ]
 
 
 ## 域名种类
