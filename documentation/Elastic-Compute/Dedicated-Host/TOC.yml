@@ -13,7 +13,7 @@
       href: Introduction/Features.md
     - name: 宿主机规格
       href: Introduction/Dedicated-Host-Type.md
-    - name: 限制说明 
+    - name: 使用限制
       href: Introduction/Restrictions.md
     - name: 资源调度说明 
       href: Introduction/Resource-Scheduling-Rules.md
