@@ -15,7 +15,7 @@
 2. 首先选择想要创建资源的区域（比如华北），然后点击“新建”按钮，创建topic；
 3. 选择Namespace，在指定Namespace下创建Topic,可缺省；
 4. 创建topic中需要填写“topic名称”和备注信息；
-5. 指定Topic类型：若您使用JCQ的SDK或OPENAPI接入服务则Topic类型选择JCQ，若您使用RocketMQ客户端接入服务则Topic类型选择RocketMQ;
+5. 指定Topic类型：若您使用JCQ的SDK或OpenAPI接入服务则Topic类型选择JCQ，若您使用RocketMQ客户端接入服务则Topic类型选择RocketMQ;
 6. 指定消息类型：选定Topic类型后，选择该Topic类型下，使用的消息类型，根据Topic类型不同，消息类型有不同。
 
 ### 说明：
