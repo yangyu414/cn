@@ -18,7 +18,7 @@
 | 顺序消息 | Ordered Message | 消息队列 JCQ提供的一种严格按照顺序进行发布和消费的消息类型。顺序消息由两个部分组成：顺序发布和顺序消费 |
 | 重置消费位点 | reset consumer point | 在消息持久化存储的时间范围内（默认3天），重新设置消息订阅者对其订阅topic的消费进度的功能 |
 | 死信队列 | Dead Letter Queue | 在超过最大接收次数后会将消息发送到死信队列，可以在死信队列中隔离这些消息以确定其处理失败的原因 |
-| Namespace | Namespace | Topic的逻辑分组，不同的Namespace下面的表允许重名。不同的租户拥有不同的namespace，彼此无法看到和影响。 |
+| Namespace | Namespace | Topic的逻辑分组，不同的Namespace下面的Topic允许重名。不同的租户拥有不同的Namespace，彼此无法看到和影响。 |
 
 ## 2. 主题订阅相关名词 
 | 术语名称 | 对应英文 | 解释 |
