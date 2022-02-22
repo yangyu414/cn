@@ -13,4 +13,4 @@
 
 
 ### 消息队列JCQ支持的接入协议和开发语言：
-目前仅支持Java下的TCP（SDK）和HTTP协议。同时，兼容RocketMQ协议。
+目前，JCQ协议仅支持TCP（Java SDK）协议和HTTP协议。此外，服务兼容RocketMQ协议。
