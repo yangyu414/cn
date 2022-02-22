@@ -40,7 +40,7 @@ Pull/Push 消费方式。
 提供更为专业、可靠、稳定的 TCP 协议的 SDK 接入，支持Java语言。
 
 ### 兼容RocketMQ协议
-兼容RocketMQ协议（版本：4.9.1）.
+兼容RocketMQ协议（版本：4.9.1）。
 
 
 ## 简单易用
