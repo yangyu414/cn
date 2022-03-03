@@ -4,7 +4,7 @@
 ## 监控指标
 京东云为您提供云主机实例的CPU、内存、磁盘、网络等类型的监控指标，其中云主机监控指标分为基础指标和扩展指标：
 * **基础指标**具有较高的通用性，能满足您平时对监控数据的需求，上报的指标种类不支持调整，可在云主机详情页或 云监控-资源监控-云主机 下查看监控数据；
-* **扩展指标**是对基础指标的细节补充，可以满足某些特殊场景的监控需求，您需要按需自行配置上报的指标种类，此类指标会上报至 [云监控-自定义监控](https://docs.jdcloud.com/cn/monitoring/custom-monitoring-overview) 服务中，您可以参照下方 [扩展指标配置说明](monitoring-overview#user-content-1) 进行配置，监控数据查看方式请参见 [获取实例监控数据](https://docs.jdcloud.com/cn/virtual-machines/get-monitor-data)。
+* **扩展指标**是对基础指标的细节补充，可以满足某些特殊场景的监控需求，您需要按需自行配置上报的指标种类，此类指标会上报至 [云监控-自定义监控](https://docs.jdcloud.com/monitoring/custom-monitoring-overview) 服务中，您可以参照下方 [扩展指标配置说明](monitoring-overview#user-content-1) 进行配置，监控数据查看方式请参见 [获取实例监控数据](https://docs.jdcloud.com/virtual-machines/get-monitor-data)。
 
 ### 基础指标 
 <table>
