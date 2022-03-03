@@ -219,91 +219,91 @@
 
 ### 扩展指标 
 <table>
-	  <thead>
-  <tr>
-	<th>指标类型</th>
-	<th>指标英文名</th>
-	<th>指标中文名</th>
-	<th>单位</th>
-	<th>说明</th>
-	<th>上报维度</th>
-  </tr>
-	  </thead>
-	  <tbody>
+	<thead>
+        <tr>
+            <th>指标类型</th>
+            <th>指标英文名</th>
+            <th>指标中文名</th>
+            <th>单位</th>
+            <th>说明</th>
+            <th>上报维度</th>
+        </tr>
+	</thead>
+	<tbody>
+        <tr>
+            <td rowspan="2">CPU</td>
+            <td>vm.cpu.cores.user</td>
+            <td> CPU使用率（user） </td>
+            <td> % </td>
+            <td> CPU在用户态进程和低优先级进程的时间百分比<br>仅Linux系统有此指标</td>    
+            <td> 实例 </td>
+        </tr>
+        <tr>
+            <td>vm.cpu.cores.iowait</td>
+            <td> CPU使用率（iowait）</td>
+            <td> % </td>
+            <td> CPU由于系统IO而处于等待状态的时间百分比<br>仅Linux系统有此指标</td>    
+            <td>实例</td>
+        </tr>	  	  
+        <tr>
+            <td rowspan="2">磁盘</td>
+            <td> vm.disk.dev.io.util</td>
+            <td>磁盘IO繁忙百分比</td>
+            <td>%</td> 
+            <td>磁盘IO繁忙百分比</td>
+            <td rowspan="2">设备名：devName <br><li type='disc'>Linux:'devName'='/vda','/vdb1', ...</li> <li type='disc'>Windows:‘devName’='C','D', ...</li><br> Linux系统如磁盘有分区，则按分区统计上报，若无分区则按磁盘统计上报；Windows系统均按盘符统计上报。</td>
+        </tr>
+        <tr>
+            <td> vm.disk.dev.io.await </td>
+            <td>磁盘IO等待百分比</td>
+            <td>%</td> 
+            <td>磁盘IO等待百分比</td>
+        </tr>
     <tr>
-    	<td rowspan="2">CPU</td>
-        <td>vm.cpu.cores.user</td>
-	<td> CPU使用率（user） </td>
-        <td> % </td>
-        <td> CPU在用户态进程和低优先级进程的时间百分比<br>仅Linux系统有此指标</td>    
-	<td> 实例 </td>
-    </tr>
-    <tr>
-        <td>vm.cpu.cores.iowait</td>
-	<td> CPU使用率（iowait）</td>
-        <td> % </td>
-        <td> CPU由于系统IO而处于等待状态的时间百分比<br>仅Linux系统有此指标</td>    
-	<td>实例</td>
-    </tr>	  	  
-      <tr>
-	<td rowspan="2">磁盘</td>
-        <td> vm.disk.dev.io.util</td>
-        <td>磁盘IO繁忙百分比</td>
-        <td>%</td> 
-        <td>磁盘IO繁忙百分比</td>
-        <td rowspan="2">设备名：devName <br><li type='disc'>Linux:'devName'='/vda','/vdb1', ...</li> <li type='disc'>Windows:‘devName’='C','D', ...</li><br> Linux系统如磁盘有分区，则按分区统计上报，若无分区则按磁盘统计上报；Windows系统均按盘符统计上报。</td>
-    </tr>
-    <tr>
-        <td> vm.disk.dev.io.await </td>
-        <td>磁盘IO等待百分比</td>
-        <td>%</td> 
-        <td>磁盘IO等待百分比</td>
-    </tr>
-   <tr>
-   	<td rowspan="6">TCP连接数</td>
-        <td>vm.netstat.tcp.last_ack </td>
-        <td> last_ack </td>
-        <td>Count</td> 
-        <td>处于last_ack状态下的TCP连接数量</td>
-        <td>实例</td>
-   </tr>	
-     <tr>
-        <td>vm.netstat.tcp.syn_recv </td>
-        <td>  syn_recv </td>
-        <td>Count</td> 
-        <td>处于syn_recv状态下的TCP连接数</td>
-        <td>实例</td>
-   </tr>
-     <tr>
-        <td>vm.netstat.tcp.fin_wait1 </td>
-        <td> fin_wait1 </td>
-        <td>Count</td> 
-        <td>处于fin_wait1状态下的TCP连接数量</td>
-        <td>实例</td>
-   </tr>
-     <tr>
-        <td>vm.netstat.tcp.fin_wait2 </td>
-        <td> fin_wait2 </td>
-        <td>Count</td> 
-        <td>处于fin_wait2状态下的TCP连接数量</td>
-        <td>实例</td>
-   </tr>
-   <tr>
-        <td>vm.netstat.tcp.closing </td>
-        <td> closing </td>
-        <td>Count</td> 
-        <td>处于closing状态下的TCP连接数量</td>
-        <td>实例</td>
-   </tr>
-   <tr>
-        <td>vm.netstat.tcp.time_wait </td>
-        <td> time_wait</td>
-        <td>Count</td> 
-        <td>处于time_wait状态下的TCP连接数量</td>
-        <td>实例</td>
-   </tr>
+            <td rowspan="6">TCP连接数</td>
+            <td>vm.netstat.tcp.last_ack </td>
+            <td> last_ack </td>
+            <td>Count</td> 
+            <td>处于last_ack状态下的TCP连接数量</td>
+            <td>实例</td>
+        </tr>	
+        <tr>
+            <td>vm.netstat.tcp.syn_recv </td>
+            <td>  syn_recv </td>
+            <td>Count</td> 
+            <td>处于syn_recv状态下的TCP连接数</td>
+            <td>实例</td>
+        </tr>
+        <tr>
+            <td>vm.netstat.tcp.fin_wait1 </td>
+            <td> fin_wait1 </td>
+            <td>Count</td> 
+            <td>处于fin_wait1状态下的TCP连接数量</td>
+            <td>实例</td>
+        </tr>
+        <tr>
+            <td>vm.netstat.tcp.fin_wait2 </td>
+            <td> fin_wait2 </td>
+            <td>Count</td> 
+            <td>处于fin_wait2状态下的TCP连接数量</td>
+            <td>实例</td>
+        </tr>
+        <tr>
+            <td>vm.netstat.tcp.closing </td>
+            <td> closing </td>
+            <td>Count</td> 
+            <td>处于closing状态下的TCP连接数量</td>
+            <td>实例</td>
+        </tr>
+        <tr>
+            <td>vm.netstat.tcp.time_wait </td>
+            <td> time_wait</td>
+            <td>Count</td> 
+            <td>处于time_wait状态下的TCP连接数量</td>
+            <td>实例</td>
+        </tr>
 	</body>
-</table>
+</table> 
 
 <div id="user-content-1"></div>
 
@@ -429,8 +429,6 @@
 	</body>
 </table>
 
-
-  
 ## 相关参考
 [官方镜像系统组件](https://docs.jdcloud.com/cn/virtual-machines/default-agent-in-public-image)
 
